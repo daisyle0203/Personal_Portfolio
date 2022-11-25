@@ -3,8 +3,7 @@
 ## Table of Contents:
 ---
 - [Description](#description)
-- [Deployed Link](#deployed-link)
-- [Screenshots](#screenshots)
+- [Demo](#demo)
 - [License](#license)
 - [Questions](#questions)
 
@@ -13,12 +12,11 @@
 This is my first portfolio website that showcases my skills and my coding projects. It is fully responsive on all devices. It is built with HTML, CSS, Javascript.
 
 
-## Deployed Link :
+## Demo :
 ---
 [Check out the live portfolio here!](https://daisyle0203.github.io/Personal_Portfolio/)
-## Screenshots :
----
-![The website includes a navigation bar, a header image, an about me section, a work section with three of my projects and a contact me at the bottom of the page.](assets/images/screenshot.png)
+
+![GIF](https://media.giphy.com/media/zPDE5yIAb1t5y7WqYk/giphy.gif)
 
 ## License:
 ---

@@ -16,7 +16,7 @@ This is my first portfolio website that showcases my skills and my coding projec
 ---
 [Check out the live portfolio here!](https://daisyle0203.github.io/Personal_Portfolio/)
 
-![GIF](https://media.giphy.com/media/zPDE5yIAb1t5y7WqYk/giphy.gif)
+![GIF](./assets/images/personal-website-v1.gif)
 
 ## License:
 ---
